@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hyd:hydrogen-dao:3.1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/software/apache-maven-3.5.2/com/hyd/hydrogen-dao/3.1.0-SNAPSHOT/hydrogen-dao-3.1.0-20180801.094317-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/software/apache-maven-3.5.2/com/hyd/hydrogen-dao/3.1.0-SNAPSHOT/hydrogen-dao-3.1.0-20180801.094317-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/software/apache-maven-3.5.2/com/hyd/hydrogen-dao/3.1.0-SNAPSHOT/hydrogen-dao-3.1.0-20180801.094317-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

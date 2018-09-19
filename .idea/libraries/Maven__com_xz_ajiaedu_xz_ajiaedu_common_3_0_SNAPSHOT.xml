@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.xz.ajiaedu:xz-ajiaedu-common:3.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/software/apache-maven-3.5.2/com/xz/ajiaedu/xz-ajiaedu-common/3.0-SNAPSHOT/xz-ajiaedu-common-3.0-20180912.054854-52.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/software/apache-maven-3.5.2/com/xz/ajiaedu/xz-ajiaedu-common/3.0-SNAPSHOT/xz-ajiaedu-common-3.0-20180912.054854-52-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/software/apache-maven-3.5.2/com/xz/ajiaedu/xz-ajiaedu-common/3.0-SNAPSHOT/xz-ajiaedu-common-3.0-20180912.054854-52-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
